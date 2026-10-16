@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Koyu arama kutusu, saat ve en çok ziyaret edilen sitelerle sıcak gri tonlarında sakin bir yeni sekme sayfası."
+  },
+  "newTabTitle": {
+    "message": "Yeni Sekme"
+  },
+  "searchPlaceholder": {
+    "message": "Ara veya URL yaz"
+  },
+  "imagesLink": {
+    "message": "Görseller"
+  },
+  "timeFormat": {
+    "message": "Saat biçimi"
+  },
+  "timeAuto": {
+    "message": "Otomatik"
+  },
+  "shortcutsLabel": {
+    "message": "Kısayollar"
+  },
+  "modeCustom": {
+    "message": "Kısayollarım"
+  },
+  "modeTop": {
+    "message": "En çok ziyaret edilenler"
+  },
+  "addShortcut": {
+    "message": "Kısayol ekle"
+  },
+  "editShortcut": {
+    "message": "Kısayolu düzenle"
+  },
+  "removeShortcut": {
+    "message": "Kaldır"
+  },
+  "shortcutName": {
+    "message": "Ad"
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "done": {
+    "message": "Bitti"
+  },
+  "invalidUrl": {
+    "message": "Geçerli bir web adresi girin"
+  },
+  "settings": {
+    "message": "Ayarlar"
+  }
+}

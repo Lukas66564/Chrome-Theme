@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "गर्म स्लेटी रंग का शांत नया टैब पेज, जिसमें गहरा सर्च बॉक्स, घड़ी और सबसे ज़्यादा देखी गई साइटें हैं।"
+  },
+  "newTabTitle": {
+    "message": "नया टैब"
+  },
+  "searchPlaceholder": {
+    "message": "खोजें या URL लिखें"
+  },
+  "imagesLink": {
+    "message": "चित्र"
+  },
+  "timeFormat": {
+    "message": "समय का प्रारूप"
+  },
+  "timeAuto": {
+    "message": "स्वचालित"
+  },
+  "shortcutsLabel": {
+    "message": "शॉर्टकट"
+  },
+  "modeCustom": {
+    "message": "मेरे शॉर्टकट"
+  },
+  "modeTop": {
+    "message": "सबसे ज़्यादा देखी गई"
+  },
+  "addShortcut": {
+    "message": "शॉर्टकट जोड़ें"
+  },
+  "editShortcut": {
+    "message": "शॉर्टकट बदलें"
+  },
+  "removeShortcut": {
+    "message": "हटाएं"
+  },
+  "shortcutName": {
+    "message": "नाम"
+  },
+  "cancel": {
+    "message": "रद्द करें"
+  },
+  "done": {
+    "message": "हो गया"
+  },
+  "invalidUrl": {
+    "message": "मान्य वेब पता दर्ज करें"
+  },
+  "settings": {
+    "message": "सेटिंग"
+  }
+}

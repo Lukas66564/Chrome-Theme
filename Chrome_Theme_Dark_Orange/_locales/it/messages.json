@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Una pagina Nuova scheda in grigio caldo con casella di ricerca scura, orologio e i siti più visitati."
+  },
+  "newTabTitle": {
+    "message": "Nuova scheda"
+  },
+  "searchPlaceholder": {
+    "message": "Cerca o digita un URL"
+  },
+  "imagesLink": {
+    "message": "Immagini"
+  },
+  "timeFormat": {
+    "message": "Formato ora"
+  },
+  "timeAuto": {
+    "message": "Automatico"
+  },
+  "shortcutsLabel": {
+    "message": "Scorciatoie"
+  },
+  "modeCustom": {
+    "message": "Le mie scorciatoie"
+  },
+  "modeTop": {
+    "message": "Più visitati"
+  },
+  "addShortcut": {
+    "message": "Aggiungi scorciatoia"
+  },
+  "editShortcut": {
+    "message": "Modifica scorciatoia"
+  },
+  "removeShortcut": {
+    "message": "Rimuovi"
+  },
+  "shortcutName": {
+    "message": "Nome"
+  },
+  "cancel": {
+    "message": "Annulla"
+  },
+  "done": {
+    "message": "Fine"
+  },
+  "invalidUrl": {
+    "message": "Inserisci un indirizzo web valido"
+  },
+  "settings": {
+    "message": "Impostazioni"
+  }
+}

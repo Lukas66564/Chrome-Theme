@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="color-scheme" content="dark">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>New Tab</title>
+  <link rel="icon" type="image/png" href="icon32.png">
+  <link rel="stylesheet" href="newtab.css">
+</head>
+<body>
+  <nav class="toplinks">
+    <a href="https://mail.google.com/">Gmail</a>
+    <a id="imgLink" href="https://www.google.com/imghp">Images</a>
+    <button id="appsBtn" class="iconbtn" type="button" aria-label="Google apps" title="Google apps">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><circle cx="5" cy="5" r="1.8"/><circle cx="12" cy="5" r="1.8"/><circle cx="19" cy="5" r="1.8"/><circle cx="5" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="19" cy="12" r="1.8"/><circle cx="5" cy="19" r="1.8"/><circle cx="12" cy="19" r="1.8"/><circle cx="19" cy="19" r="1.8"/></svg>
+    </button>
+    <a id="acctBtn" class="avatar" href="https://myaccount.google.com/" aria-label="Google Account" title="Google Account">
+      <svg id="avatarIcon" viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><circle cx="12" cy="9" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7z"/></svg>
+    </a>
+  </nav>
+  <div id="apps" class="panel appsPanel" hidden></div>
+
+  <main>
+    <div class="clock" id="clock"></div>
+    <div class="date" id="date"></div>
+
+    <form id="searchform" autocomplete="off">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+      <input id="q" type="text" placeholder="Search or type a URL" spellcheck="false">
+    </form>
+
+    <div class="tiles" id="tiles"></div>
+  </main>
+
+  <button id="settingsBtn" class="fab" type="button" data-i18n-aria="settings">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></svg>
+  </button>
+
+  <div id="settings" class="panel" hidden>
+    <div class="row"><span data-i18n="timeFormat"></span>
+      <div class="seg" id="segTime">
+        <button type="button" data-val="auto" data-i18n="timeAuto"></button>
+        <button type="button" data-val="12">12 h</button>
+        <button type="button" data-val="24">24 h</button>
+      </div>
+    </div>
+    <div class="row"><span data-i18n="shortcutsLabel"></span>
+      <div class="seg" id="segMode">
+        <button type="button" data-val="custom" data-i18n="modeCustom"></button>
+        <button type="button" data-val="top" data-i18n="modeTop"></button>
+      </div>
+    </div>
+  </div>
+
+  <div id="menu" class="menu" hidden>
+    <button type="button" id="menuEdit" data-i18n="editShortcut"></button>
+    <button type="button" id="menuRemove" data-i18n="removeShortcut"></button>
+  </div>
+
+  <dialog id="dlg">
+    <form id="dlgForm">
+      <h2 id="dlgTitle"></h2>
+      <label><span data-i18n="shortcutName"></span><input id="fName" type="text" maxlength="60" autocomplete="off"></label>
+      <label><span>URL</span><input id="fUrl" type="text" inputmode="url" autocomplete="off" spellcheck="false" required></label>
+      <div class="actions">
+        <button type="button" id="dlgCancel" data-i18n="cancel"></button>
+        <button type="submit" class="primary" data-i18n="done"></button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="newtab.js"></script>
+</body>
+</html>

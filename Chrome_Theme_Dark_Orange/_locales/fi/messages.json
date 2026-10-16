@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Rauhallinen uuden välilehden sivu lämpimän harmaana tummalla hakukentällä, kellolla ja useimmin käydyillä sivustoilla."
+  },
+  "newTabTitle": {
+    "message": "Uusi välilehti"
+  },
+  "searchPlaceholder": {
+    "message": "Hae tai kirjoita URL-osoite"
+  },
+  "imagesLink": {
+    "message": "Kuvat"
+  }
+}

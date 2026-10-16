@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Klidná stránka nové karty v teplé šedé s tmavým vyhledávacím polem, hodinami a nejnavštěvovanějšími weby."
+  },
+  "newTabTitle": {
+    "message": "Nová karta"
+  },
+  "searchPlaceholder": {
+    "message": "Hledejte nebo zadejte adresu URL"
+  },
+  "imagesLink": {
+    "message": "Obrázky"
+  }
+}

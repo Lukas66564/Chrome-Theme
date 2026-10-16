@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Spokojna strona nowej karty w ciepłej szarości z ciemnym polem wyszukiwania, zegarem i najczęściej odwiedzanymi stronami."
+  },
+  "newTabTitle": {
+    "message": "Nowa karta"
+  },
+  "searchPlaceholder": {
+    "message": "Wyszukaj lub wpisz adres URL"
+  },
+  "imagesLink": {
+    "message": "Grafika"
+  },
+  "timeFormat": {
+    "message": "Format czasu"
+  },
+  "timeAuto": {
+    "message": "Auto"
+  },
+  "shortcutsLabel": {
+    "message": "Skróty"
+  },
+  "modeCustom": {
+    "message": "Moje skróty"
+  },
+  "modeTop": {
+    "message": "Najczęściej odwiedzane"
+  },
+  "addShortcut": {
+    "message": "Dodaj skrót"
+  },
+  "editShortcut": {
+    "message": "Edytuj skrót"
+  },
+  "removeShortcut": {
+    "message": "Usuń"
+  },
+  "shortcutName": {
+    "message": "Nazwa"
+  },
+  "cancel": {
+    "message": "Anuluj"
+  },
+  "done": {
+    "message": "Gotowe"
+  },
+  "invalidUrl": {
+    "message": "Wpisz prawidłowy adres internetowy"
+  },
+  "settings": {
+    "message": "Ustawienia"
+  }
+}

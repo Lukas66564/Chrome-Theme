@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "어두운 검색창, 시계, 자주 방문하는 사이트를 갖춘 따뜻한 회색 새 탭 페이지입니다."
+  },
+  "newTabTitle": {
+    "message": "새 탭"
+  },
+  "searchPlaceholder": {
+    "message": "검색하거나 URL 입력"
+  },
+  "imagesLink": {
+    "message": "이미지"
+  },
+  "timeFormat": {
+    "message": "시간 형식"
+  },
+  "timeAuto": {
+    "message": "자동"
+  },
+  "shortcutsLabel": {
+    "message": "바로가기"
+  },
+  "modeCustom": {
+    "message": "내 바로가기"
+  },
+  "modeTop": {
+    "message": "자주 방문한 사이트"
+  },
+  "addShortcut": {
+    "message": "바로가기 추가"
+  },
+  "editShortcut": {
+    "message": "바로가기 수정"
+  },
+  "removeShortcut": {
+    "message": "삭제"
+  },
+  "shortcutName": {
+    "message": "이름"
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "done": {
+    "message": "완료"
+  },
+  "invalidUrl": {
+    "message": "올바른 웹 주소를 입력하세요"
+  },
+  "settings": {
+    "message": "설정"
+  }
+}

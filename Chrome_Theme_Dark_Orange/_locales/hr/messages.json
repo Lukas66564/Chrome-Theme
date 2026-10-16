@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Mirna stranica nove kartice u toploj sivoj s tamnim okvirom za pretraživanje, satom i najposjećenijim stranicama."
+  },
+  "newTabTitle": {
+    "message": "Nova kartica"
+  },
+  "searchPlaceholder": {
+    "message": "Pretražite ili unesite URL"
+  },
+  "imagesLink": {
+    "message": "Slike"
+  }
+}

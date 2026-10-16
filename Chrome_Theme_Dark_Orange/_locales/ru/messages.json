@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Спокойная страница новой вкладки в тёплых серых тонах с тёмной строкой поиска, часами и популярными сайтами."
+  },
+  "newTabTitle": {
+    "message": "Новая вкладка"
+  },
+  "searchPlaceholder": {
+    "message": "Введите запрос или URL"
+  },
+  "imagesLink": {
+    "message": "Картинки"
+  },
+  "timeFormat": {
+    "message": "Формат времени"
+  },
+  "timeAuto": {
+    "message": "Авто"
+  },
+  "shortcutsLabel": {
+    "message": "Ярлыки"
+  },
+  "modeCustom": {
+    "message": "Мои ярлыки"
+  },
+  "modeTop": {
+    "message": "Популярные"
+  },
+  "addShortcut": {
+    "message": "Добавить ярлык"
+  },
+  "editShortcut": {
+    "message": "Изменить ярлык"
+  },
+  "removeShortcut": {
+    "message": "Удалить"
+  },
+  "shortcutName": {
+    "message": "Название"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "done": {
+    "message": "Готово"
+  },
+  "invalidUrl": {
+    "message": "Введите допустимый веб-адрес"
+  },
+  "settings": {
+    "message": "Настройки"
+  }
+}

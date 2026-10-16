@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Una página de nueva pestaña en gris cálido con cuadro de búsqueda oscuro, reloj y tus sitios más visitados."
+  },
+  "newTabTitle": {
+    "message": "Nueva pestaña"
+  },
+  "searchPlaceholder": {
+    "message": "Busca o escribe una URL"
+  },
+  "imagesLink": {
+    "message": "Imágenes"
+  },
+  "timeFormat": {
+    "message": "Formato de hora"
+  },
+  "timeAuto": {
+    "message": "Automático"
+  },
+  "shortcutsLabel": {
+    "message": "Accesos directos"
+  },
+  "modeCustom": {
+    "message": "Mis accesos directos"
+  },
+  "modeTop": {
+    "message": "Más visitados"
+  },
+  "addShortcut": {
+    "message": "Añadir acceso directo"
+  },
+  "editShortcut": {
+    "message": "Editar acceso directo"
+  },
+  "removeShortcut": {
+    "message": "Quitar"
+  },
+  "shortcutName": {
+    "message": "Nombre"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "done": {
+    "message": "Listo"
+  },
+  "invalidUrl": {
+    "message": "Introduce una dirección web válida"
+  },
+  "settings": {
+    "message": "Ajustes"
+  }
+}

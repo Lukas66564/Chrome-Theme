@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Eine ruhige Neuer-Tab-Seite in warmem Grau mit dunklem Suchfeld, Uhr und deinen meistbesuchten Seiten."
+  },
+  "newTabTitle": {
+    "message": "Neuer Tab"
+  },
+  "searchPlaceholder": {
+    "message": "Suchen oder URL eingeben"
+  },
+  "imagesLink": {
+    "message": "Bilder"
+  },
+  "timeFormat": {
+    "message": "Zeitformat"
+  },
+  "timeAuto": {
+    "message": "Automatisch"
+  },
+  "shortcutsLabel": {
+    "message": "Verknüpfungen"
+  },
+  "modeCustom": {
+    "message": "Meine Verknüpfungen"
+  },
+  "modeTop": {
+    "message": "Meistbesucht"
+  },
+  "addShortcut": {
+    "message": "Verknüpfung hinzufügen"
+  },
+  "editShortcut": {
+    "message": "Verknüpfung bearbeiten"
+  },
+  "removeShortcut": {
+    "message": "Entfernen"
+  },
+  "shortcutName": {
+    "message": "Name"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "done": {
+    "message": "Fertig"
+  },
+  "invalidUrl": {
+    "message": "Gib eine gültige Webadresse ein"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  }
+}

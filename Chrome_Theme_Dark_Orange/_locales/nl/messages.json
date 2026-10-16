@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Een rustige nieuwe-tabbladpagina in warm grijs met donker zoekvak, klok en je meest bezochte sites."
+  },
+  "newTabTitle": {
+    "message": "Nieuw tabblad"
+  },
+  "searchPlaceholder": {
+    "message": "Zoek of typ een URL"
+  },
+  "imagesLink": {
+    "message": "Afbeeldingen"
+  },
+  "timeFormat": {
+    "message": "Tijdnotatie"
+  },
+  "timeAuto": {
+    "message": "Automatisch"
+  },
+  "shortcutsLabel": {
+    "message": "Snelkoppelingen"
+  },
+  "modeCustom": {
+    "message": "Mijn snelkoppelingen"
+  },
+  "modeTop": {
+    "message": "Meest bezocht"
+  },
+  "addShortcut": {
+    "message": "Snelkoppeling toevoegen"
+  },
+  "editShortcut": {
+    "message": "Snelkoppeling bewerken"
+  },
+  "removeShortcut": {
+    "message": "Verwijderen"
+  },
+  "shortcutName": {
+    "message": "Naam"
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "done": {
+    "message": "Gereed"
+  },
+  "invalidUrl": {
+    "message": "Voer een geldig webadres in"
+  },
+  "settings": {
+    "message": "Instellingen"
+  }
+}

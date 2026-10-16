@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Isang kalmadong new tab page na may maiinit na kulay-abo, madilim na search box, orasan, at mga pinakabinibisitang site."
+  },
+  "newTabTitle": {
+    "message": "Bagong tab"
+  },
+  "searchPlaceholder": {
+    "message": "Maghanap o mag-type ng URL"
+  },
+  "imagesLink": {
+    "message": "Mga Larawan"
+  }
+}

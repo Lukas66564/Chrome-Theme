@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "version": "1.8.0",
+  "description": "__MSG_extDescription__",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [
+    "topSites",
+    "favicon",
+    "search",
+    "storage"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "default_locale": "en"
+}

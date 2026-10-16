@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "温暖灰色调的新标签页，包含深色搜索框、时钟和常访问的网站。"
+  },
+  "newTabTitle": {
+    "message": "新标签页"
+  },
+  "searchPlaceholder": {
+    "message": "搜索或输入网址"
+  },
+  "imagesLink": {
+    "message": "图片"
+  },
+  "timeFormat": {
+    "message": "时间格式"
+  },
+  "timeAuto": {
+    "message": "自动"
+  },
+  "shortcutsLabel": {
+    "message": "快捷方式"
+  },
+  "modeCustom": {
+    "message": "我的快捷方式"
+  },
+  "modeTop": {
+    "message": "常访问的网站"
+  },
+  "addShortcut": {
+    "message": "添加快捷方式"
+  },
+  "editShortcut": {
+    "message": "编辑快捷方式"
+  },
+  "removeShortcut": {
+    "message": "移除"
+  },
+  "shortcutName": {
+    "message": "名称"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "invalidUrl": {
+    "message": "请输入有效的网址"
+  },
+  "settings": {
+    "message": "设置"
+  }
+}

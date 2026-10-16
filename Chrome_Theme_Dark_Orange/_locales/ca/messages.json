@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Una pàgina de pestanya nova en gris càlid amb quadre de cerca fosc, rellotge i els llocs més visitats."
+  },
+  "newTabTitle": {
+    "message": "Pestanya nova"
+  },
+  "searchPlaceholder": {
+    "message": "Cerca o escriu un URL"
+  },
+  "imagesLink": {
+    "message": "Imatges"
+  }
+}

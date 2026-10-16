@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Una página de nueva pestaña en gris cálido con cuadro de búsqueda oscuro, reloj y tus sitios más visitados."
+  },
+  "newTabTitle": {
+    "message": "Nueva pestaña"
+  },
+  "searchPlaceholder": {
+    "message": "Busca o escribe una URL"
+  },
+  "imagesLink": {
+    "message": "Imágenes"
+  }
+}

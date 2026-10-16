@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "ダークな検索ボックス、時計、よく見るサイトを備えた、温かみのあるグレーの新しいタブページ。"
+  },
+  "newTabTitle": {
+    "message": "新しいタブ"
+  },
+  "searchPlaceholder": {
+    "message": "検索または URL を入力"
+  },
+  "imagesLink": {
+    "message": "画像"
+  },
+  "timeFormat": {
+    "message": "時刻の形式"
+  },
+  "timeAuto": {
+    "message": "自動"
+  },
+  "shortcutsLabel": {
+    "message": "ショートカット"
+  },
+  "modeCustom": {
+    "message": "マイ ショートカット"
+  },
+  "modeTop": {
+    "message": "よくアクセスするサイト"
+  },
+  "addShortcut": {
+    "message": "ショートカットを追加"
+  },
+  "editShortcut": {
+    "message": "ショートカットを編集"
+  },
+  "removeShortcut": {
+    "message": "削除"
+  },
+  "shortcutName": {
+    "message": "名前"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "done": {
+    "message": "完了"
+  },
+  "invalidUrl": {
+    "message": "有効なウェブアドレスを入力してください"
+  },
+  "settings": {
+    "message": "設定"
+  }
+}

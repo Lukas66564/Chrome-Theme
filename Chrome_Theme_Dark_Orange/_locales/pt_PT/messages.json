@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Uma página de novo separador em cinzento quente, com caixa de pesquisa escura, relógio e os sites mais visitados."
+  },
+  "newTabTitle": {
+    "message": "Novo separador"
+  },
+  "searchPlaceholder": {
+    "message": "Pesquisar ou escrever um URL"
+  },
+  "imagesLink": {
+    "message": "Imagens"
+  },
+  "timeFormat": {
+    "message": "Formato da hora"
+  },
+  "timeAuto": {
+    "message": "Automático"
+  },
+  "shortcutsLabel": {
+    "message": "Atalhos"
+  },
+  "modeCustom": {
+    "message": "Os meus atalhos"
+  },
+  "modeTop": {
+    "message": "Mais visitados"
+  },
+  "addShortcut": {
+    "message": "Adicionar atalho"
+  },
+  "editShortcut": {
+    "message": "Editar atalho"
+  },
+  "removeShortcut": {
+    "message": "Remover"
+  },
+  "shortcutName": {
+    "message": "Nome"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "done": {
+    "message": "Concluído"
+  },
+  "invalidUrl": {
+    "message": "Introduza um endereço Web válido"
+  },
+  "settings": {
+    "message": "Definições"
+  }
+}

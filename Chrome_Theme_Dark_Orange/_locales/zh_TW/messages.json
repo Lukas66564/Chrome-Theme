@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "溫暖灰色調的新分頁，包含深色搜尋框、時鐘和常造訪的網站。"
+  },
+  "newTabTitle": {
+    "message": "新分頁"
+  },
+  "searchPlaceholder": {
+    "message": "搜尋或輸入網址"
+  },
+  "imagesLink": {
+    "message": "圖片"
+  },
+  "timeFormat": {
+    "message": "時間格式"
+  },
+  "timeAuto": {
+    "message": "自動"
+  },
+  "shortcutsLabel": {
+    "message": "捷徑"
+  },
+  "modeCustom": {
+    "message": "我的捷徑"
+  },
+  "modeTop": {
+    "message": "常造訪的網站"
+  },
+  "addShortcut": {
+    "message": "新增捷徑"
+  },
+  "editShortcut": {
+    "message": "編輯捷徑"
+  },
+  "removeShortcut": {
+    "message": "移除"
+  },
+  "shortcutName": {
+    "message": "名稱"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "invalidUrl": {
+    "message": "請輸入有效的網址"
+  },
+  "settings": {
+    "message": "設定"
+  }
+}

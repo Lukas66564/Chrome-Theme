@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "صفحة علامة تبويب جديدة هادئة بدرجات الرمادي الدافئ مع مربع بحث داكن وساعة وأكثر المواقع زيارةً."
+  },
+  "newTabTitle": {
+    "message": "علامة تبويب جديدة"
+  },
+  "searchPlaceholder": {
+    "message": "ابحث أو اكتب عنوان URL"
+  },
+  "imagesLink": {
+    "message": "صور"
+  },
+  "timeFormat": {
+    "message": "تنسيق الوقت"
+  },
+  "timeAuto": {
+    "message": "تلقائي"
+  },
+  "shortcutsLabel": {
+    "message": "الاختصارات"
+  },
+  "modeCustom": {
+    "message": "اختصاراتي"
+  },
+  "modeTop": {
+    "message": "الأكثر زيارةً"
+  },
+  "addShortcut": {
+    "message": "إضافة اختصار"
+  },
+  "editShortcut": {
+    "message": "تعديل الاختصار"
+  },
+  "removeShortcut": {
+    "message": "إزالة"
+  },
+  "shortcutName": {
+    "message": "الاسم"
+  },
+  "cancel": {
+    "message": "إلغاء"
+  },
+  "done": {
+    "message": "تم"
+  },
+  "invalidUrl": {
+    "message": "أدخل عنوان ويب صالحًا"
+  },
+  "settings": {
+    "message": "الإعدادات"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Uma página de nova guia em cinza quente, com caixa de pesquisa escura, relógio e seus sites mais visitados."
+  },
+  "newTabTitle": {
+    "message": "Nova guia"
+  },
+  "searchPlaceholder": {
+    "message": "Pesquise ou digite um URL"
+  },
+  "imagesLink": {
+    "message": "Imagens"
+  },
+  "timeFormat": {
+    "message": "Formato de hora"
+  },
+  "timeAuto": {
+    "message": "Automático"
+  },
+  "shortcutsLabel": {
+    "message": "Atalhos"
+  },
+  "modeCustom": {
+    "message": "Meus atalhos"
+  },
+  "modeTop": {
+    "message": "Mais visitados"
+  },
+  "addShortcut": {
+    "message": "Adicionar atalho"
+  },
+  "editShortcut": {
+    "message": "Editar atalho"
+  },
+  "removeShortcut": {
+    "message": "Remover"
+  },
+  "shortcutName": {
+    "message": "Nome"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "done": {
+    "message": "Concluído"
+  },
+  "invalidUrl": {
+    "message": "Digite um endereço da web válido"
+  },
+  "settings": {
+    "message": "Configurações"
+  }
+}

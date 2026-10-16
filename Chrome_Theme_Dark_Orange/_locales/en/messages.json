@@ -1,0 +1,74 @@
+{
+  "extName": {
+    "message": "Warm Gray New Tab",
+    "description": "Name of the extension"
+  },
+  "extDescription": {
+    "message": "A calm warm-gray new tab page with a dark search box, a clock and your most visited sites.",
+    "description": "Short description (max 132 characters)"
+  },
+  "newTabTitle": {
+    "message": "New Tab",
+    "description": "Tab title"
+  },
+  "searchPlaceholder": {
+    "message": "Search or type a URL",
+    "description": "Placeholder of the search box"
+  },
+  "imagesLink": {
+    "message": "Images",
+    "description": "Link to image search (top right)"
+  },
+  "timeFormat": {
+    "message": "Time format",
+    "description": "UI text"
+  },
+  "timeAuto": {
+    "message": "Auto",
+    "description": "UI text"
+  },
+  "shortcutsLabel": {
+    "message": "Shortcuts",
+    "description": "UI text"
+  },
+  "modeCustom": {
+    "message": "My shortcuts",
+    "description": "UI text"
+  },
+  "modeTop": {
+    "message": "Most visited",
+    "description": "UI text"
+  },
+  "addShortcut": {
+    "message": "Add shortcut",
+    "description": "UI text"
+  },
+  "editShortcut": {
+    "message": "Edit shortcut",
+    "description": "UI text"
+  },
+  "removeShortcut": {
+    "message": "Remove",
+    "description": "UI text"
+  },
+  "shortcutName": {
+    "message": "Name",
+    "description": "UI text"
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "UI text"
+  },
+  "done": {
+    "message": "Done",
+    "description": "UI text"
+  },
+  "invalidUrl": {
+    "message": "Enter a valid web address",
+    "description": "UI text"
+  },
+  "settings": {
+    "message": "Settings",
+    "description": "UI text"
+  }
+}

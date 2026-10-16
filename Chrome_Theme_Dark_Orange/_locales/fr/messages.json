@@ -1,0 +1,53 @@
+{
+  "extDescription": {
+    "message": "Une page Nouvel onglet apaisante en gris chaud, avec barre de recherche sombre, horloge et vos sites les plus visités."
+  },
+  "newTabTitle": {
+    "message": "Nouvel onglet"
+  },
+  "searchPlaceholder": {
+    "message": "Rechercher ou saisir une URL"
+  },
+  "imagesLink": {
+    "message": "Images"
+  },
+  "timeFormat": {
+    "message": "Format de l'heure"
+  },
+  "timeAuto": {
+    "message": "Automatique"
+  },
+  "shortcutsLabel": {
+    "message": "Raccourcis"
+  },
+  "modeCustom": {
+    "message": "Mes raccourcis"
+  },
+  "modeTop": {
+    "message": "Les plus visités"
+  },
+  "addShortcut": {
+    "message": "Ajouter un raccourci"
+  },
+  "editShortcut": {
+    "message": "Modifier le raccourci"
+  },
+  "removeShortcut": {
+    "message": "Supprimer"
+  },
+  "shortcutName": {
+    "message": "Nom"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "done": {
+    "message": "OK"
+  },
+  "invalidUrl": {
+    "message": "Saisissez une adresse web valide"
+  },
+  "settings": {
+    "message": "Paramètres"
+  }
+}

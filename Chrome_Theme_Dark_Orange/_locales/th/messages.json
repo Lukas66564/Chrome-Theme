@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "หน้าแท็บใหม่โทนเทาอบอุ่น พร้อมช่องค้นหาสีเข้ม นาฬิกา และเว็บไซต์ที่เข้าบ่อย"
+  },
+  "newTabTitle": {
+    "message": "แท็บใหม่"
+  },
+  "searchPlaceholder": {
+    "message": "ค้นหาหรือพิมพ์ URL"
+  },
+  "imagesLink": {
+    "message": "รูปภาพ"
+  }
+}

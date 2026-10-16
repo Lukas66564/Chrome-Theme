@@ -1,0 +1,14 @@
+{
+  "extDescription": {
+    "message": "Pokojná stránka novej karty v teplej sivej s tmavým vyhľadávacím poľom, hodinami a najnavštevovanejšími webmi."
+  },
+  "newTabTitle": {
+    "message": "Nová karta"
+  },
+  "searchPlaceholder": {
+    "message": "Vyhľadajte alebo zadajte adresu URL"
+  },
+  "imagesLink": {
+    "message": "Obrázky"
+  }
+}
